@@ -43,4 +43,4 @@ public with sharing class Calculadora {
 
         return historicoOperacoes;
     }
-}//Código do Luidy
+}
